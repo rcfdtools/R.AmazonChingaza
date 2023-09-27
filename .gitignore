@@ -1,0 +1,7 @@
+# General exclusions
+.idea/
+.git/
+.venv/
+
+
+# Large files exclusions
